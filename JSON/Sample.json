@@ -1,0 +1,71 @@
+{
+    "AI in action": {
+      "single_title": {
+        "title": "lorem ipsum",
+        "subtitle": "John Doe",
+        "image": "https://picsum.photos/1280/720"
+      },
+      "double-column_text": {
+        "title": "lorem ipsum",
+        "first_column": "First column lorem",
+        "second_column": "Second column lorem"
+      },
+      "text_and_image": {
+        "title": "lorem ipsum",
+        "first_column": "First column lorem",
+        "image": "https://picsum.photos/1280/720"
+      },
+      "image_and_text": {
+        "title": "lorem ipsum",
+        "image": "https://picsum.photos/1280/720",
+        "first_column": "First column lorem"
+      },
+      "image_quote": {
+        "title": "lorem ipsum",
+        "image": "https://picsum.photos/1280/720",
+        "quote": "lorem ipsum lorm ipsum"
+      },
+      "qa": {
+        "title": "lorem ipsum"
+      },
+      "thankyou": {
+        "title": "lorem ipsum",
+        "wide_text": "Reach out to us for more questions."
+      }
+    },
+    "AI and Law": {
+      "single_title": {
+        "title": "lorem ipsum",
+  "subtitle": "Jane Doe",
+  "image": "https://picsum.photos/1280/720"
+
+      },
+      "double-column_text": {
+        "title": "lorem ipsum",
+        "first_column": "First column lorem",
+        "second_column": "Second column lorem"
+      },
+      "text_and_image": {
+        "title": "lorem ipsum",
+        "first_column": "First column lorem",
+        "image": "https://picsum.photos/1280/720"
+      },
+      "image_and_text": {
+        "title": "lorem ipsum",
+        "image": "https://picsum.photos/1280/720",
+        "first_column": "First column lorem \n Second column lorem \n First column lorem"
+      },
+      "image_quote": {
+        "title": "lorem ipsum",
+        "image": "https://picsum.photos/1280/720",
+        "quote": "lorem ipsum lorm ipsum"
+      },
+      "qa": {
+        "title": "lorem ipsum"
+      },
+      "thankyou": {
+        "title": "lorem ipsum",  
+        "wide_text": "Reach out to us for more questions."
+      }
+    } 
+ }
